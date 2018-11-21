@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Sep 29 08:35:44 CST 2016
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=D\:\\storm-project-01-storm_fat.jar
+manifest.mergeall=true
+manifest.mainclass=storm.topology.AreaAmtTopo
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
